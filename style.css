@@ -1,0 +1,50 @@
+div{
+    /*border: 1px solid black;
+    border-radius: 12px;
+    padding: 12px;
+    width: 270px;*/
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+h1 {
+    font-size: 14px
+}
+
+.First_Class {
+    font-size: 14px;
+    color: green;
+    padding: 20px;
+    font-weight: bold;
+    font-style: italic;
+    border-style: dashed;
+    
+}
+
+.Second_Class {
+    font-size: 14px;
+    color: red;
+    padding: 20px;
+    font-weight: 600px;
+}
+
+.Third_Class {
+    font-size: 14px;
+    color: blue;
+    padding: 20px;
+    font-weight: 900px;
+    line-height: 14px;
+}
+
+.Blue {
+    font-size: 14px;
+    color: blue;
+    padding: 30px;
+    font-weight: bolder;
+    border-style: solid;
+}
+
